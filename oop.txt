@@ -1,0 +1,9 @@
+objects:  it is a unique entity that contains soe properties and  methods.
+1. object literal
+2. object constructor
+3. object create()
+
+classes: classes are blueprints of an object. 
+
+abstraction: it means displaying only essential info and hiding the details.
+encapsulation: the process of wrapping properties and function within a simple unit is called encapsulation.
